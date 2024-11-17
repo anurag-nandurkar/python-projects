@@ -1,8 +1,5 @@
-Here’s the `README.md` content in plain text format:
-
----
-
 # Recipe Manager
+![image](https://github.com/user-attachments/assets/0d7edbed-d519-4d03-92cf-daa4f90543e1)
 
 ## Description
 The **Recipe Manager** is a simple Python-based application that allows users to add, view, and manage their favorite recipes. The recipes are stored in a JSON file (`recipes.json`), making it easy to save and retrieve recipes without using a database. This is a beginner-friendly project, perfect for those looking to learn basic file handling, JSON manipulation, and user input in Python.
