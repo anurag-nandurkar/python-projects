@@ -1,4 +1,5 @@
 # Task Manager App
+![Screenshot 2024-11-18 131700](https://github.com/user-attachments/assets/a2c8c2ec-817f-40ea-9127-55769706d9a3)
 
 A simple Task Manager application built using PyQt5 and Python that allows users to create, view, edit, delete, and mark tasks as completed. This application stores the task data in a `tasks.json` file.
 
