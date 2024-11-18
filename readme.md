@@ -1,8 +1,3 @@
-For GitHub, we can only use markdown for styling. While GitHub supports basic markdown formatting, custom colors or complex HTML styling (like the `style` attribute in HTML) are not fully supported. However, you can still make your `README.md` look appealing by using various markdown features like headers, lists, bold, italics, and links.
-
-Here’s a more GitHub-friendly version of your `README.md` with clear formatting and a clean structure:
-
-```markdown
 # Python Projects Collection
 
 ## :book: Description
